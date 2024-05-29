@@ -6,9 +6,9 @@ To-Do App- Blockchain Group Project
 •	Maunu Aunesluoma- maunu.aunesluoma@uef.fi
 
 # To run the project
-Step 01- Clone the prject to local
-Step 02- Execute following commands-
+Step 01- Clone the prject to local <br/>
+Step 02- Execute following commands- <br/>
 
-npm i
-truffle migrate
-npm run dev
+npm i <br/>
+truffle migrate <br/>
+npm run dev <br/>
